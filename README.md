@@ -1,7 +1,6 @@
 # Kafka Go Docker
 A sample project for practicing Kafka clusters, Docker, and Go, focusing on producing and consuming messages.
 
-
 ## Usage
 
 To get started, make sure you have [Docker installed](https://docs.docker.com/docker-for-mac/install/) on your system, and then clone this repository.
